@@ -1,0 +1,9 @@
+{
+  "MicrosoftTelemetryConnectionString": "",
+  "runs-on": "ubuntu-latest",
+  "type": "PTE",
+  "shell": "pwsh",
+  "templateUrl": "https://github.com/businesscentralapps/tmpfOabYt-PTE@main",
+  "doNotPublishApps": true,
+  "useCompilerFolder": true
+}
